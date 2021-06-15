@@ -1,0 +1,52 @@
+{
+  "name": "material-ui-dark-mode-with-gatsby-and-usereducer",
+  "private": true,
+  "description": "VIEW THE TUTORIAL HERE: https://snappywebdesign.net/blog/how-to-use-a-dark-theme-with-material-ui\n\nThis example uses Material-UI, Gatsby.js, useReducer, and useContext to serve dark and light modes",
+  "version": "0.1.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "@material-ui/core": "4.11.4",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.58",
+    "@material-ui/styles": "4.11.4",
+    "@material-ui/utils": "4.11.2",
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-google-fonts-with-attributes": "1.0.8",
+    "gatsby-plugin-image": "^1.6.0",
+    "gatsby-plugin-material-ui": "3.0.1",
+    "gatsby-plugin-react-helmet": "^4.6.0",
+    "gatsby-plugin-sharp": "^3.6.0",
+    "gatsby-source-filesystem": "^3.6.0",
+    "gatsby-transformer-sharp": "^3.6.0",
+    "normalize.css": "8.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "keywords": [
+    "gatsby.js",
+    "dark mode",
+    "usereducer"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
