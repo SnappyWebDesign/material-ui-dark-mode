@@ -1,3 +1,12 @@
+<p align="center">
+<a href='https://snappywebdesign.net/' style='font-size: 10px;'>by Snappy Web Design</a>
+<br />
+<br />
+  <a href="https://www.gatsbyjs.com">
+    <img alt="Material-UI" src="https://material-ui.com/static/logo_raw.svg" width="60" />
+  </a>
+</p>
+
 # How to Use a Dark Theme with Material UI
 Turn your Gatsby website from light mode to dark mode with Material-UI  
 
